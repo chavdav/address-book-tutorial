@@ -3,10 +3,18 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+CHECKPOINT 6 - Flask
+-learn how API endpoints work
+--set up routers
+-learn about JSON
+-change link/script paths in html
+-get app up and running via Flask
+
 CHECKPOINT 5 - Python
 -communicate with DB
 -create three functions
 --GET, ADD, DELETE
+-test SQL communication
 
 CHECKPOINT 4 - SQL
 -create database
