@@ -3,6 +3,11 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+CHECKPOINT 8 - Final Touches
+-use bootstrap to make things prettier
+-remove hard coded names
+-change API to be restful
+
 CHECKPOINT 7 - Linking Ends
 -rewrite JS to fit with backend
 -rewrite form to do AJAX call 
