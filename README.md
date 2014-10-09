@@ -3,6 +3,12 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+CHECKPOINT 7 - Linking Ends
+-rewrite JS to fit with backend
+-rewrite form to do AJAX call 
+-GET, ADD, and DELETE functions
+-rewrite addResults for GET and ADD
+
 CHECKPOINT 6 - Flask
 -learn how API endpoints work
 --set up routers
