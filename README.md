@@ -1,7 +1,15 @@
 address-book-tutorial
 =====================
 
+HOW TO RUN:
+clone repo
+cd to /app
+run "python app.py"
+open "127.0.0.1:5000" in browser
+
 Super Duper Ultra Basic Introduction to Web Dev
+
+MAKE YOUR PULL REQUEST NOW
 
 CHECKPOINT 8 - Final Touches
 -use bootstrap to make things prettier
